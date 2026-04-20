@@ -1,5 +1,5 @@
 {
-    "name": "roorda-ict/statamic-entries-export",
+    "name": "yarre/statamic-entries-export",
     "autoload": {
         "psr-4": {
             "RoordaIct\\EntriesExport\\": "src"
@@ -18,7 +18,7 @@
     },
     "require": {
         "php": "^8.0",
-        "statamic/cms": "^4.0|^5.0",
+        "statamic/cms": "^4.0|^5.0|^6.0",
         "maatwebsite/excel": "^3.1.41"
     }
 }
